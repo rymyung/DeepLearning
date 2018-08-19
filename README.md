@@ -5,7 +5,7 @@
 
 ### Course 1 : Neural Networks and Deep Learning
 > * week 1 : **Introduction to deep learning**
-> * week 2 : Neural Networks Basics
+> * week 2 : **Neural Networks Basics**
 > * week 3 : Shallow neural networks
 > * week 4 : Deep Neural Networks
 
