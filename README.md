@@ -10,7 +10,7 @@
 > * week 4 : **Deep Neural Networks**
 
 ### Course 2 : Improving Deep Neural Networks : Hyperparameter tuning, Regularization and Optimization
-> * week 1 : Practical aspects of Deep Learning
+> * week 1 : **Practical aspects of Deep Learning**
 > * week 2 : Optimization algorithms
 > * week 3 : Hyperparameter tuning, Batch Normalization and Programming Frameworks
 
